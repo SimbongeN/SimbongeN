@@ -19,7 +19,7 @@ I'm a passionate computer science student entering my second year at [Your Unive
 
 ### Todolist App
 
-My first project is the **Todolist App**, a desktop application built with JavaFX. This app helps users manage their tasks efficiently by organizing them based on due dates. Check it out [here]([link-to-todolist-repo](https://github.com/SimbongeN/todolist_app))!
+My first project is the **Todolist App**, a desktop application built with JavaFX. This app helps users manage their tasks efficiently by organizing them based on due dates. Check it out [here](https://github.com/SimbongeN/todolist_app)!
 
 ## Open Source and Collaboration
 
