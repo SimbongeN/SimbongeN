@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Simbonge
 
-I'm a passionate computer science student entering my second year at [Your University], majoring in computer science. I love diving into the world of code and building exciting projects. In my free time, you'll find me exploring the realms of ethical hacking through CTF games like [OverTheWire](https://overthewire.org/wargames/), where I hone my skills and learn by doing.
+I'm a passionate computer science student entering my second year at University of Kwazulu-Natal, South Africa, majoring in computer science. I love diving into the world of code and building exciting projects. In my free time, you'll find me exploring the realms of ethical hacking through CTF games like [OverTheWire](https://overthewire.org/wargames/), where I hone my skills and learn by doing.
 
 ## About Me
 
-- 🎓 **Education:** Currently pursuing a degree in Computer Science at [Your University].
+- 🎓 **Education:** Currently pursuing a degree in Computer Science at niversity of Kwazulu-Natal South Africa.
 - 💻 **Passion:** I'm deeply passionate about computer science and love to explore new technologies.
 - 🌐 **CTF Enthusiast:** I enjoy playing Capture The Flag (CTF) games, and you can often find me on [OverTheWire](https://overthewire.org/wargames/) learning and practicing ethical hacking.
 - ☕ **Java Community:** I'm an active member of the Java community on Discord. Join me on [Discord](https://discord.gg/together-java-272761734820003841), where I contribute, learn, and help fellow students with Java-related queries.
