@@ -9,8 +9,13 @@ I'm a passionate computer science student entering my second year at University 
 - 🌐 **CTF Enthusiast:** I enjoy playing Capture The Flag (CTF) games, and you can often find me on [OverTheWire](https://overthewire.org/wargames/) learning and practicing ethical hacking.
 - ☕ **Java Community:** I'm an active member of the Java community on Discord. Join me on [Discord](https://discord.gg/together-java-272761734820003841), where I contribute, learn, and help fellow students with Java-related queries.
 
-- ## Programming Languages
+## Stat
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimbongeN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimbongeN&theme=dark&hide_border=false)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimbongeN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+- ## Programming Languages
 - **HTML and CSS:** 2 years of experience.
 - **Java:** 1 year of experience.
 - **Python:** 6 months of experience.  
