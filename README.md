@@ -26,8 +26,19 @@ I'm a passionate computer science student entering my second year at University 
 
 My first project is the **Todolist App**, a desktop application built with JavaFX. This app helps users manage their tasks efficiently by organizing them based on due dates. Check it out [here](https://github.com/SimbongeN/todolist_app)!
 
-## Open Source and Collaboration
+### BankApp: A JavaFX Banking System
+BankApp is a powerful mobile application designed to simulate real-world banking operations. Users can manage their accounts, view balances, and perform transactions seamlessly. The app prioritizes security, user-friendly interfaces, and efficient database management.
 
+#### Technologies and Libraries Used:
+- JavaFX: The chosen framework for building the user interface, ensuring responsiveness and visual appeal.
+- JDBC (Java Database Connectivity): Enables seamless interaction with the MySQL database, allowing efficient data retrieval and storage.
+- MySQL: The backend database system that stores user information, account details, and transaction records securely.
+#### Features Implemented:
+- User Authentication: Secure login using hashed passwords.
+- Account Management: View account details and record transactions.
+- Database Integration: JDBC connects to the MySQL backend.
+
+## Open Source and Collaboration
 I'm enthusiastic about contributing to open source projects and always open to collaboration. If you have a project in mind or need a partner for your next idea, let's connect! Feel free to reach out to me via [email](mailto:simbongendlovu47@gmail.com) or [LinkedIn](https://www.linkedin.com/in/SimbongeNdlovu/).
 
 Let's code together and build amazing things! 🚀
