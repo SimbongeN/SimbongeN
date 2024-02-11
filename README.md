@@ -22,7 +22,7 @@ I'm a passionate computer science student entering my second year at University 
 
 ## Projects
 
-### Todolist App
+### 1. Todolist App
 
 My first project is the **Todolist App**, a desktop application built with JavaFX. This app helps users manage their tasks efficiently by organizing them based on due dates. Check it out [here](https://github.com/SimbongeN/todolist_app)!
 
@@ -35,7 +35,7 @@ My first project is the **Todolist App**, a desktop application built with JavaF
 - **User-Friendly Interface:** Intuitive design for a seamless user experience.
 - **Cross-Platform:** Desktop application compatible with various operating systems.
 
-### BankApp: A JavaFX Banking System
+### 2. BankApp: A JavaFX Banking System
 BankApp is a powerful mobile application designed to simulate real-world banking operations. Users can manage their accounts, view balances, and perform transactions seamlessly. The app prioritizes security, user-friendly interfaces, and efficient database management. Check it out [here](https://github.com/SimbongeN/BankApp)!
 
 #### Technologies and Libraries Used:
