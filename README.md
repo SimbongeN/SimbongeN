@@ -26,6 +26,15 @@ I'm a passionate computer science student entering my second year at University 
 
 My first project is the **Todolist App**, a desktop application built with JavaFX. This app helps users manage their tasks efficiently by organizing them based on due dates. Check it out [here](https://github.com/SimbongeN/todolist_app)!
 
+**OnTrack** is a todolist App that is a desktop application designed to help users manage their tasks efficiently. The application allows users to organize their to-do list based on due dates, providing a straightforward solution for task management on the desktop platform.
+
+#### Features
+
+- **Task Management:** Easily add, edit, and delete tasks.
+- **Due Date Filtering:** Sort and filter tasks based on their due dates.
+- **User-Friendly Interface:** Intuitive design for a seamless user experience.
+- **Cross-Platform:** Desktop application compatible with various operating systems.
+
 ### BankApp: A JavaFX Banking System
 BankApp is a powerful mobile application designed to simulate real-world banking operations. Users can manage their accounts, view balances, and perform transactions seamlessly. The app prioritizes security, user-friendly interfaces, and efficient database management. Check it out [here](https://github.com/SimbongeN/BankApp)!
 
