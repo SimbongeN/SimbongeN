@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/SimbongeN/count.svg" />
 </p>
 
-I'm a passionate computer science student entering my second year at University of Kwazulu-Natal, South Africa, majoring in computer science. I love diving into the world of code and building exciting projects. In my free time, you'll find me exploring the realms of ethical hacking through CTF games like [OverTheWire](https://overthewire.org/wargames/), where I hone my skills and learn by doing.
+I'm a passionate computer science student at University of Kwazulu-Natal, South Africa, majoring in computer science. I love diving into the world of code and building exciting projects. In my free time, you'll find me exploring the realms of ethical hacking through CTF games like [OverTheWire](https://overthewire.org/wargames/), where I hone my skills and learn by doing.
 
 ## About Me
 
