@@ -16,11 +16,11 @@ I'm a passionate computer science student entering my second year at University 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimbongeN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 - ## Programming Languages
-- <code><img height="20" alt="java" src="[cool_java_logo_link](https://wallpapercave.com/wp/wp7250032.png)"></code>
-<code><img height="20" alt="html" src="cool_html_logo_link"></code>
-<code><img height="20" alt="css" src="cool_css_logo_link"></code>
-<code><img height="20" alt="javascript" src="[cool_javascript_logo_link](https://logospng.org/download/javascript/logo-javascript-1024.png)"></code>
-<code><img height="20" alt="python" src="cool_python_logo_link"></code>
+- <code><img height="20" alt="java" src="codingLogos/java.png"></code>
+<code><img height="20" alt="html" src="codingLogos/HTML5.png"></code>
+<code><img height="20" alt="css" src="codingLogos/Css.png"></code>
+<code><img height="20" alt="javascript" src="codingLogos/javaScript.jpeg"></code>
+<code><img height="20" alt="python" src="codingLogos/python.jpg"></code>
 
 ## Open Source and Collaboration
 I'm enthusiastic about contributing to open source projects and always open to collaboration. If you have a project in mind or need a partner for your next idea, let's connect! Feel free to reach out to me via [email](mailto:simbongendlovu47@gmail.com) or [LinkedIn](https://www.linkedin.com/in/SimbongeNdlovu/).
