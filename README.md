@@ -17,10 +17,10 @@ I'm a passionate computer science student at University of Kwazulu-Natal, South 
 - ☕ **Java Community:** I'm an active member of the Java community on Discord. Join me on [Discord](https://discord.gg/together-java-272761734820003841), where I contribute, learn, and help fellow students with Java-related queries.
 
 ## Stat
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimbongeN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimbongeN&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimbongeN&theme=dark&theme=darkbg_color=ffffff&title_color=8a2be2_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimbongeN&theme=dark&theme=darkbg_color=ffffff&title_color=8a2be2_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimbongeN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimbongeN&theme=darkbg_color=ffffff&title_color=8a2be2)
 
 - ## Programming Languages
 - <code><img height="20" alt="java" src="codingLogos/java.png"></code>
