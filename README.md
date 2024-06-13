@@ -22,14 +22,19 @@ I'm a passionate computer science student at University of Kwazulu-Natal, South 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimbongeN&theme=darkbg_color=ffffff&title_color=8a2be2)
 
-- ## Programming Languages
+<h3>Coding Environments:</h3>
+<p>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+</p>
+
+### Programming Languages
 - <code><img height="50" width="50" alt="icon" src="https://techstack-generator.vercel.app/python-icon.svg"></code>
 <code><img width="50" height="60" alt="icon" src="codingLogos/HTML5.png"></code>
 <code><img width="50" height="60" alt="icon" src="codingLogos/Css.png"></code>
 <code><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="60"></code>
 <code><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60"></code>
 <code><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60"></code>
-<h4>Version Control:</h4>
+<h3>Version Control:</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
