@@ -23,11 +23,16 @@ I'm a passionate computer science student at University of Kwazulu-Natal, South 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimbongeN&theme=darkbg_color=ffffff&title_color=8a2be2)
 
 - ## Programming Languages
-- <code><img height="20" alt="java" src="codingLogos/java.png"></code>
-<code><img height="20" alt="html" src="codingLogos/HTML5.png"></code>
-<code><img height="20" alt="css" src="codingLogos/Css.png"></code>
-<code><img height="20" alt="javascript" src="codingLogos/javaScript.jpeg"></code>
-<code><img height="20" alt="python" src="codingLogos/python.jpg"></code>
+- <code><img height="50" width="50" alt="icon" src="https://techstack-generator.vercel.app/python-icon.svg"></code>
+<code><img width="50" height="60" alt="icon" src="codingLogos/HTML5.png"></code>
+<code><img width="50" height="60" alt="icon" src="codingLogos/Css.png"></code>
+<code><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="60"></code>
+<code><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60"></code>
+<code><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60"></code>
+<h4>Version Control:</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+</p>
 
 ## Open Source and Collaboration
 I'm enthusiastic about contributing to open source projects and always open to collaboration. If you have a project in mind or need a partner for your next idea, let's connect! Feel free to reach out to me via [email](mailto:simbongendlovu47@gmail.com) or [LinkedIn](https://www.linkedin.com/in/SimbongeNdlovu/).
