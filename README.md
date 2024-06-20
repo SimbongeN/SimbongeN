@@ -20,7 +20,7 @@ I'm a passionate computer science student at University of Kwazulu-Natal, South 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimbongeN&theme=dark&theme=darkbg_color=ffffff&title_color=8a2be2_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimbongeN&theme=dark&theme=darkbg_color=ffffff&title_color=8a2be2_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimbongeN&theme=darkbg_color=ffffff&title_color=8a2be2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimbongeN)
 
 <h3>Coding Environments:</h3>
 <p>
